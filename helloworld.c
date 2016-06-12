@@ -13,7 +13,7 @@ int
 main(int argc, char* argv[])
 {
 	printf("Hello World !!!\n");
-	printf("my_bitbucket\n");
+	printf("my_github\n");
 
 	return 0;
 }
